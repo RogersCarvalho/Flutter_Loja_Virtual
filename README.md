@@ -1,2 +1,2 @@
-#Flutter Loja Virtual
-Aplicação de uma loja virtual desenvolvida em Flutter
+Java API Rest com Banco de dados MongoDB
+Aplicação em Java utilizando uma API REST com banco de dados MongoDB.
